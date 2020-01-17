@@ -7,7 +7,7 @@ import at.edu.c02.calculator.CalculatorException;
 
 
 public class CalculatorImpl implements Calculator {
-
+	// test
 	private final Stack<Double> stack = new Stack<>();
 
 	@Override
